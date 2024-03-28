@@ -910,8 +910,8 @@ justify-content: space-between;
         width: 160px;
     }
     .main{
-        top: -100px;
-        height: 1500px;
+        position: relative;
+        height: 1600px;
     }
     .main-textle{
         width: 160px;
